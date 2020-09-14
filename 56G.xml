@@ -1,0 +1,8 @@
+<Project Version="2" Name="56G" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\56g.xml</Package>
+	</Packages>
+</Project>
+
